@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tobs007
 - 👀 I’m interested in Data
-- 🌱 I’m currently learning Data Science, Algorithms and other related subjects
+- 🌱 I’m currently learning Data Science, Algorithms and other related subjects.
 - 💞️ I’m looking to collaborate on various projects relating to finding solutions to real life issues using Data.
 
 <!---
